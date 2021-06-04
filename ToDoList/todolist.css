@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+.header{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(241, 252, 252);
+    /* text-align: auto; */
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(85, 96, 133);
+    padding-bottom: 15px;
+}
+.addb{
+    width: 420px;
+    height: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.addtodo{
+    float: left;
+    width: 350px;
+    height: 50px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    text-align: center;
+    margin: auto;
+}
+.addbtn{
+    float: left;
+    padding-left: 10px;
+}
+img{
+    width: 50px;    
+}
+.sj{
+    width: 600px;
+    height: 1000px;
+    background-color: rgb(243, 243, 243);
+    margin:auto;
+}
+.doing{
+    padding-bottom: 30px;
+}
+h2{
+    color: rgb(85, 96, 133);
+    font-size: 25px;
+}
+.destroy{
+    float: right;
+    width: 20px;
+    height: 20px;
+}
